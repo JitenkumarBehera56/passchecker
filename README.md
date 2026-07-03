@@ -149,7 +149,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**##Jiten Kumar Behera**
+**Jiten Kumar Behera**
 
 GitHub
 
