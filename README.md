@@ -65,7 +65,7 @@ A strong password should contain:
 Example:
 
 ```
-P@ssw0rd123
+Cyber@Lee07lawat
 ```
 
 ---
