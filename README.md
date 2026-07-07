@@ -35,7 +35,7 @@ Tkinter comes pre-installed with Python.
 Clone the repository
 
 ```bash
-git clone https://github.com/JitenkumarBehera56/passchecker.git
+git clone https://github.com/YOUR_USERNAME/passchecker.git
 ```
 
 Go into the project folder
